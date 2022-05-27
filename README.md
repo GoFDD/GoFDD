@@ -1,4 +1,4 @@
-## 😁Olá! Me chamo Julio Cesar, um amante da cultura geek que entrou no mundo da programação.
+## 😁Olá! Me chamo Julio Cesar, um amante da cultura geek 🐱‍👤 que entrou no 🌍 da programação.
 <div align="center">
   <a href="https://github.com/GoFDD">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=GoFDD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
