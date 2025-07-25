@@ -8,7 +8,22 @@
 
 ###
 
-<p align="left">- Me chamo Julio Cesar<br><br>🎯 Sobre Mim<br><br>Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em me tornar um profissional completo no desenvolvimento web. Estou aprofundando meus conhecimentos em JavaScript e React, explorando sua aplicação prática no desenvolvimento de soluções modernas e escaláveis.<br><br>💡 Experiência Acadêmica e Projetos<br><br>Durante minha trajetória acadêmica, participei de projetos que envolveram:<br><br>- Desenvolvimento Full Stack utilizando C# no back-end e Vue.js no front-end,<br>- Criação e integração de sistemas baseados em APIs, aplicando boas práticas de desenvolvimento,<br>- Construção de interfaces responsivas com Tailwind CSS, alinhadas a uma experiência de usuário fluida.</p><br><br>📈 Objetivos Profissionais<br>Meu objetivo é consolidar meu conhecimento em desenvolvimento web e mobile, utilizando tecnologias como React Native para criar interfaces eficientes e acessíveis. Também estou empenhado em fortalecer minhas habilidades em integração de sistemas e colaborar em projetos que exijam inovação e resolução de problemas.
+<p align="left">
+- Me chamo Julio Cesar<br><br>
+
+🎯 <strong>Sobre Mim</strong><br><br>
+Atualmente, atuo como Desenvolvedor Full Stack Júnior em um projeto legado, onde sou responsável por corrigir bugs, implementar melhorias e colaborar na manutenção de um sistema em produção. Utilizo tecnologias como <strong>PHP, JavaScript, TypeScript, Vue.js</strong> e <strong>MySQL</strong>, com foco em estabilidade, performance e boas práticas de desenvolvimento.<br><br>
+
+💡 <strong>Experiência Acadêmica e Projetos</strong><br><br>
+Durante minha trajetória acadêmica e prática, participei de projetos que envolveram:<br><br>
+- Desenvolvimento Full Stack utilizando <strong>C# no back-end</strong> e <strong>Vue.js no front-end</strong>;<br>
+- Integração de sistemas baseados em <strong>APIs RESTful</strong>, com foco em segurança e escalabilidade;<br>
+- Criação de interfaces responsivas com <strong>Tailwind CSS</strong>, priorizando uma experiência de usuário fluida.<br><br>
+
+📈 <strong>Objetivos Profissionais</strong><br>
+Meu objetivo é consolidar minha carreira como desenvolvedor web e mobile, aprofundando meus conhecimentos em tecnologias modernas como <strong>React</strong> e <strong>React Native</strong>. Também busco fortalecer minhas habilidades em integração de sistemas, arquitetura de software e contribuir em projetos desafiadores que exijam inovação, qualidade e visão de produto.
+</p>
+
 
 ###
 
